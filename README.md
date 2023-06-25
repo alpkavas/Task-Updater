@@ -5,7 +5,7 @@ Task Updater aslında çok basit bir Scrum Board'tur. Çeşitli başlıklar alt�
 
 # Proje içinden bir GIF 
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZiZmVwN2Nvendxamk3cG9lZnQyamF1a3Z5YTM0ajBlOXZ5Mnp1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bfv6tociUQcTupYPVN/giphy.gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTl0eWxnZnI4emNmeHp6MnR2MzF5Z3J2amFqb3IyZWxseWw4MnV6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cEutPzwuFBKhU8Wmbq/giphy.gif)
 
 ## KURULUM
 
